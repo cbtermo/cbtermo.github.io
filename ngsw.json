@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572019698697,
+  "timestamp": 1572436034927,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a1e4c580c913cc360905.js",
+        "/main.bb2dce3929e5115c7c07.js",
         "/polyfills.6f69a1a2c2d35a1cb4a3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.9d54c62413cb7dfa343d.css"
@@ -115,8 +115,8 @@
     "/assets/logo-faperj-sponsors.jpg": "32e9c55df0b923d7dc6767cd7384ee81deeff560",
     "/assets/prefeituraNF.jpg": "f998bb8ee86793bca443d809c115f83ae8532acc",
     "/favicon.ico": "2eb991084951cfef0fbfffbc0f94a504fad562cb",
-    "/index.html": "00669a031e4d8a3378d4c6ffce958e552ffd1537",
-    "/main.a1e4c580c913cc360905.js": "2f7aa6dc6647aab6b210bfc5371f46ed3276bd44",
+    "/index.html": "e53b927cb30d7507b2179336256235cfe487264a",
+    "/main.bb2dce3929e5115c7c07.js": "2625345c8cbafe0e44c2d40092f5e626cc4b741b",
     "/polyfills.6f69a1a2c2d35a1cb4a3.js": "38904fc84fef3e106b3bee2f1d95c26fd4778c7f",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.9d54c62413cb7dfa343d.css": "0698d88984f18bc6263b162f9fd1d412bf6c5f06"
