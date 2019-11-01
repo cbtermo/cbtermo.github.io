@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572626613696,
+  "timestamp": 1572636152831,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9e0e309c95ed03ab85e0.js",
+        "/main.9ddba3c4a172d8053cbc.js",
         "/polyfills.6f69a1a2c2d35a1cb4a3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.9d54c62413cb7dfa343d.css"
@@ -135,8 +135,8 @@
     "/assets/sader.png": "575c7d425a004dbe6d1648f14b4a8fa1d078d0ab",
     "/assets/senaiCetiqt.png": "f4dd52495c001377526f1a19eae2020f89e54285",
     "/favicon.ico": "2eb991084951cfef0fbfffbc0f94a504fad562cb",
-    "/index.html": "cec694a8742e3ba2a76c6596ae3a9c77e539e8c4",
-    "/main.9e0e309c95ed03ab85e0.js": "187991adc53e811cd4e11394da70127eb75f4377",
+    "/index.html": "b2f0dd023d05bb457de98cff4718288ef5be1e65",
+    "/main.9ddba3c4a172d8053cbc.js": "bfb23c630bbb8e53b356e71efaf453e2e85e61fc",
     "/polyfills.6f69a1a2c2d35a1cb4a3.js": "38904fc84fef3e106b3bee2f1d95c26fd4778c7f",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.9d54c62413cb7dfa343d.css": "0698d88984f18bc6263b162f9fd1d412bf6c5f06"
