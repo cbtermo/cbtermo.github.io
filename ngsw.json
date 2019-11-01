@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572581437163,
+  "timestamp": 1572626613696,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9164a0df4e826f4dad75.js",
+        "/main.9e0e309c95ed03ab85e0.js",
         "/polyfills.6f69a1a2c2d35a1cb4a3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.9d54c62413cb7dfa343d.css"
@@ -22,6 +22,9 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/04-11.jpg",
+        "/assets/05-11.jpg",
+        "/assets/06-11.jpg",
         "/assets/Blucher.png",
         "/assets/BookEsposito-Alijo.jpg",
         "/assets/Logo_CBTermo.jpg",
@@ -69,6 +72,7 @@
         "/assets/logo-capes-sponsors.jpg",
         "/assets/logo-faperj-sponsors.jpg",
         "/assets/prefeituraNF.jpg",
+        "/assets/rotatephone.svg",
         "/assets/sader.png",
         "/assets/senaiCetiqt.png"
       ],
@@ -77,13 +81,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/04-11.jpg": "dc0f9c38041b364bdbf8b43dfc360be6f182c4e1",
+    "/assets/05-11.jpg": "7cb2bf8ac10a135cfc8fd233e765b9bdee9896db",
+    "/assets/06-11.jpg": "dadfa2b7b26ff5e423bcab30baac52a4e4af65a5",
     "/assets/Blucher.png": "ca19e8e99f52c3ebb6fb33ca2c186b47cf80685c",
     "/assets/BookEsposito-Alijo.jpg": "2627cce1ec3b9d7c08bbbc72a287c252f8d9ed6e",
     "/assets/Logo_CBTermo.jpg": "0838776572165d467c757e7265a20bd07e49e30b",
     "/assets/Logo_CBTermo.png": "d5dbce72f695674f4a3c16e5ae5bc550a0f9063d",
     "/assets/Logo_Caio.png": "6fafdd479d59d239958091be2ae7bd413d09b5ed",
     "/assets/Logo_Ilustrador.png": "46fe7398944a9e21f2999e2ca7ef341c2e0c096d",
-    "/assets/data/newworklist.csv": "e4ec626ae4049c6560cbb5dae207aa300d094d8a",
+    "/assets/data/newworklist.csv": "7572dcc37107f27bfd413ccfbeb486a56ec83030",
     "/assets/data/worklist copy.csv": "9fa0d4af9b282978f53f46a946b8c3b722e49640",
     "/assets/data/worklist.csv": "4c7bc66eb3fbddbbd58c0363df640c1ae8eae847",
     "/assets/icons/android-icon-144x144.png": "6f34a8375070e9741076eaba713394bf67a06519",
@@ -124,11 +131,12 @@
     "/assets/logo-capes-sponsors.jpg": "1f186778931bb70a3e1db50279ca9dd70f55adaf",
     "/assets/logo-faperj-sponsors.jpg": "32e9c55df0b923d7dc6767cd7384ee81deeff560",
     "/assets/prefeituraNF.jpg": "f998bb8ee86793bca443d809c115f83ae8532acc",
+    "/assets/rotatephone.svg": "db6e0b16705d35abd0e6d374f7a1925d25e64ba3",
     "/assets/sader.png": "575c7d425a004dbe6d1648f14b4a8fa1d078d0ab",
     "/assets/senaiCetiqt.png": "f4dd52495c001377526f1a19eae2020f89e54285",
     "/favicon.ico": "2eb991084951cfef0fbfffbc0f94a504fad562cb",
-    "/index.html": "aa62195064bd608282a7cfba78ec5ca4a5d3ddf3",
-    "/main.9164a0df4e826f4dad75.js": "353247cbc0b5587f441dcaa3ad4ff087e05d7edc",
+    "/index.html": "cec694a8742e3ba2a76c6596ae3a9c77e539e8c4",
+    "/main.9e0e309c95ed03ab85e0.js": "187991adc53e811cd4e11394da70127eb75f4377",
     "/polyfills.6f69a1a2c2d35a1cb4a3.js": "38904fc84fef3e106b3bee2f1d95c26fd4778c7f",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.9d54c62413cb7dfa343d.css": "0698d88984f18bc6263b162f9fd1d412bf6c5f06"
