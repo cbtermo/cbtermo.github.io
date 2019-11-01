@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572457009765,
+  "timestamp": 1572580682254,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.02b862eaf58e4359fff0.js",
+        "/main.e79bab50ef9c79ec4ad2.js",
         "/polyfills.6f69a1a2c2d35a1cb4a3.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.9d54c62413cb7dfa343d.css"
@@ -28,6 +28,7 @@
         "/assets/Logo_CBTermo.png",
         "/assets/Logo_Caio.png",
         "/assets/Logo_Ilustrador.png",
+        "/assets/data/newworklist.csv",
         "/assets/data/worklist copy.csv",
         "/assets/data/worklist.csv",
         "/assets/icons/android-icon-144x144.png",
@@ -82,6 +83,7 @@
     "/assets/Logo_CBTermo.png": "d5dbce72f695674f4a3c16e5ae5bc550a0f9063d",
     "/assets/Logo_Caio.png": "6fafdd479d59d239958091be2ae7bd413d09b5ed",
     "/assets/Logo_Ilustrador.png": "46fe7398944a9e21f2999e2ca7ef341c2e0c096d",
+    "/assets/data/newworklist.csv": "288219549f08573b91d005b5fd494d8762d7bcc6",
     "/assets/data/worklist copy.csv": "9fa0d4af9b282978f53f46a946b8c3b722e49640",
     "/assets/data/worklist.csv": "4c7bc66eb3fbddbbd58c0363df640c1ae8eae847",
     "/assets/icons/android-icon-144x144.png": "6f34a8375070e9741076eaba713394bf67a06519",
@@ -125,8 +127,8 @@
     "/assets/sader.png": "575c7d425a004dbe6d1648f14b4a8fa1d078d0ab",
     "/assets/senaiCetiqt.png": "f4dd52495c001377526f1a19eae2020f89e54285",
     "/favicon.ico": "2eb991084951cfef0fbfffbc0f94a504fad562cb",
-    "/index.html": "8ed6086eebd3b6c465eb016b5d8efd965d8c8ed1",
-    "/main.02b862eaf58e4359fff0.js": "5f047be2887245953e5fdc0bcc6039c426c39811",
+    "/index.html": "c41b958cd62bc40d59d257543c81a575a576b3a6",
+    "/main.e79bab50ef9c79ec4ad2.js": "ef0c588660c0d1d1265c530ea79906460e89d94d",
     "/polyfills.6f69a1a2c2d35a1cb4a3.js": "38904fc84fef3e106b3bee2f1d95c26fd4778c7f",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.9d54c62413cb7dfa343d.css": "0698d88984f18bc6263b162f9fd1d412bf6c5f06"
